@@ -1,0 +1,36 @@
+============================================================
+FORENSIC DNA ANALYSIS REPORT
+============================================================
+Subject: John_Doe
+Date: 2026-02-20
+Case #: DNA-6832
+------------------------------------------------------------
+
+STR PROFILES:
+  CSF1PO: 12
+  D3S1358: 15
+  D5S818: 11
+  D7S820: 10
+  D8S1179: 13
+  D13S317: 11
+  D16S539: 12
+  D18S51: 14
+  D21S11: 28
+  FGA: 22
+  TH01: 8
+  TPOX: 8
+  vWA: 17
+  AMEL: X
+  PEthD12: 11
+  PentaD: 10
+  PentaE: 14
+  SE33: 26
+  CD4: 8
+  F13A01: 6
+
+============================================================
+FORENSIC CONCLUSIONS:
+  - DNA profile meets CODIS quality standards
+  - All markers successfully amplified
+  - Profile suitable for database comparison
+============================================================
