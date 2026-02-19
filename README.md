@@ -43,21 +43,19 @@ A \*\*production-ready forensic DNA analysis tool\*\* that implements the FBI's 
 &nbsp;📊 How It Works
 
 
+```markdown
+## 📊 How It Works
 
-```mermaid
+The DNA-Identifier tool follows this forensic workflow:
 
-graph LR
-
-&nbsp;   A\[DNA Sample] --> B\[Extract 20 STR Markers]
-
-&nbsp;   B --> C\[Compare with Database]
-
-&nbsp;   C --> D\[Calculate Match Probability]
-
-&nbsp;   D --> E\[Generate Electropherogram]
-
-&nbsp;   E --> F\[Forensic Report]
-
+### Step-by-Step Process:
+1. **Input**: DNA sequence file and reference database
+2. **STR Extraction**: Identify and count Short Tandem Repeats at 20 CODIS markers
+3. **Profile Generation**: Create numerical profile (e.g., "CSF1PO: 12, D3S1358: 15, ...")
+4. **Database Comparison**: Compare against known individuals
+5. **Statistical Analysis**: Calculate random match probability
+6. **Visualization**: Generate forensic electropherogram
+7. **Reporting**: Create detailed case report
 
 
 
